@@ -1,0 +1,9 @@
+Ideal: player must kill enemy by shooting them to gain point. Different enemy have different point. It have many kinds of gun to use, different kind of bullet have different properties. It have many items to use too.
+
+move gun along the mouse	done
+make shoot animation 		done
+shoot bullet
+make bullet prefab (color, size)
+make many kinds of bullet data (scriptable object)
+make gun prefab (damage, bulletForce, sprite, name)
+make gun data (scriptable object)
